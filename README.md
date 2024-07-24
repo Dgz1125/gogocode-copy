@@ -43,7 +43,7 @@ const outCode = script.generate();
 ```
 
 ### Out
-可能是最好用的AST处理工具！
+我认为可能是最好用的AST处理工具！
 ```javascript
 const a = 1;
 const b = 1;
